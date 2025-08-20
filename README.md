@@ -1,2 +1,6 @@
 # doomsdayfinder
-basic poweshell script that using $strings for scan *.jar
+basic poweshell script
+used $strings feature for scan *.jar
+nothing special
+
+used script as main - miniss (redlotus)
