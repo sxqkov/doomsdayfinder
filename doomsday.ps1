@@ -4,7 +4,6 @@ Write-Host -ForegroundColor White "forked by sxqk"
 $extensions = "*.jar"
 $strings = @( 
 "mod_d.class",
-"l.png"
 "5OFV7PFTIMB0V"
 )
 
@@ -53,4 +52,5 @@ if ($results.Count -gt 0) {
     Write-Host "`nmatches found: $($results.Count)" -ForegroundColor Green
 } else {
     Write-Host "`nno matches found." -ForegroundColor Gray
+
 }
